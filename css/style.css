@@ -11,6 +11,10 @@ body {
     color: #EEEEEE;
 }
 
+h3 {
+    letter-spacing: 12px;
+}
+
 .success,
 .error {
     color: white;
